@@ -40,14 +40,14 @@
   ],
   "dependencies": {
     "jsdom": "11.10.0",
-    "firebase": "5.7.2"
+    "firebase": "9.10.0"
   },
   "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-cli": "0.1.13",
-    "grunt-contrib-concat": "~0.1.3",
-    "grunt-contrib-copy": "~0.4.1",
-    "grunt-contrib-uglify": "~0.2.0"
+    "grunt": "1.5.3",
+    "grunt-cli": "1.4.3",
+    "grunt-contrib-concat": "2.1.0",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-uglify": "5.2.2"
   },
   "scripts": {
     "build": "grunt build"
